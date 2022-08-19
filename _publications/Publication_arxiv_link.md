@@ -3,7 +3,7 @@ title: "Arxiv 1"
 collection: publications
 permalink: /publication/Publication_arxiv_link
 excerpt: 'My publications on the arXiv'
-#date: 2009-10-01
+date: 2009-10-01
 #venue: 'Journal 1'
 paperurl: 'https://arxiv.org/search/?query=avni%2C+nir&searchtype=all&source=header'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
