@@ -1,5 +1,5 @@
 ---
-title: "Arxiv"
+title: "Arxiv 1"
 collection: publications
 permalink: /publication/Publication_arxiv_link
 excerpt: 'My publications on the arXiv'
